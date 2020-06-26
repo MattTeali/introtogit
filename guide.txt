@@ -23,3 +23,5 @@ $ git touch //Create new file
 $ git config //Configure details
 
 $ git add . //add all
+
+$ git merge <name> //Merge branches
