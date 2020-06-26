@@ -27,3 +27,7 @@ $ git add . //add all
 $ git branch <name> //Makes new branch
 
 $ git checkout <name> //Goes to other branch
+
+$ git remote add origin https://github.com/MattTeali/introtogit.git
+
+$ git push -u origin master
