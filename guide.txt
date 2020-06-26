@@ -1,0 +1,24 @@
+VCS (Version Control System)
+
+basics commands
+
+$ git init //Initialize Local Git Repository
+
+$ git add <file> //Add File to Index (Staging)
+
+$ git rm <file> //Remove File from Index (Staging)
+
+$ git status //Check Status of Working Tree and Staging Area
+
+$ git commit //Commit Changes of Staging Area
+
+$ git push //Push local repo to remote repo
+
+$ git pull //Pull changes from remote repo
+
+$ git clone //clone repo into new folder
+
+$ git touch //Create new file
+
+$ git config //Configure details
+
