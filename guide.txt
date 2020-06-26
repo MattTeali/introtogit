@@ -18,8 +18,12 @@ $ git pull //Pull changes from remote repo
 
 $ git clone //clone repo into new folder
 
-$ git touch //Create new file
+$ touch //Create new file
 
 $ git config //Configure details
 
 $ git add . //add all
+
+$ git branch <name> //Makes new branch
+
+$ git checkout <name> //Goes to other branch
