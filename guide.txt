@@ -22,3 +22,4 @@ $ git touch //Create new file
 
 $ git config //Configure details
 
+$ git add . //add all
